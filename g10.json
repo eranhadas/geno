@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "G10",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/g10.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/g10.labels.tsv"
+    }
+  ]
+}

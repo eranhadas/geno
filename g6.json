@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "G6",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/g6.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/g6.labels.tsv"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "G5",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/g5.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/g5.labels.tsv"
+    }
+  ]
+}
