@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "G4",
+      "tensorName": "g4 - new",
       "tensorShape": [
         64,
         100
