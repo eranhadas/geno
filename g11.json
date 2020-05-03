@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "G10",
+      "tensorName": "G11 - GCF00625075.1_Mycoplasma_mycoides",
       "tensorShape": [
         64,
         100
