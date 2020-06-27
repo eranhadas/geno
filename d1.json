@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "D1 - NZ_BJMU01000001.1_cds_WP_170220078.1_1",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/d1.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/d1_labels.tsv"
+    }
+  ]
+}
