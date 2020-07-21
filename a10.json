@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "A10 - TTT_TTG",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a10.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a10_labels.tsv"
+    }
+  ]
+}
