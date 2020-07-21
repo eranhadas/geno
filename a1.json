@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "A1 - ACC_CCC",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a1.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a1_labels.tsv"
+    }
+  ]
+}
