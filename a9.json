@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "A9 - TTC_TCT",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a9.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a9_labels.tsv"
+    }
+  ]
+}
