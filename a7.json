@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "A7 - GAT_CCC",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a7.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a7_labels.tsv"
+    }
+  ]
+}
