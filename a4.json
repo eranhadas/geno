@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "A4 - CAC_ATA",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a4.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a4_labels.tsv"
+    }
+  ]
+}
