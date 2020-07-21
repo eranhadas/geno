@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "A2 - ACT_TCA",
+      "tensorShape": [
+        64,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a2.values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/eranhadas/geno/master/a2_labels.tsv"
+    }
+  ]
+}
