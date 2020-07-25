@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "A6 - CCG_CAT",
+      "tensorName": "A6 - CGG_CAT",
       "tensorShape": [
         64,
         100
